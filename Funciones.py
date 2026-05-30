@@ -12,11 +12,11 @@ def sumar(a,b):
     suma = a+b
     return suma
 
-sumarDusNumeros()
+sumarDosNumeros()
 
 res = sumar(4,5)
 print(res)
 
-num1 = int(input())
-
+num1= int(input("ingrese numero1: "))
+num2= int(input("ingrese numero2: "))
 
