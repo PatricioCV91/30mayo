@@ -12,5 +12,11 @@ def sumar(a,b):
     suma = a+b
     return suma
 
+sumarDusNumeros()
+
+res = sumar(4,5)
+print(res)
+
+num1 = int(input())
 
 
