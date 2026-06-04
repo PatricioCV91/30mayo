@@ -18,5 +18,4 @@ res = sumar(4,5)
 print(res)
 
 num1= int(input("ingrese numero1: "))
-num2= int(input("ingrese numero2: "))
 
